@@ -11,6 +11,11 @@
 	나머지 str의  데이터를 이동
 	동적메모리에 저장된 데이터를 str에 삽입 
 5. main ->김재범
-	
+	실험 결과
+STRLength	ROTATEdistance 	T.trivial	J.juggle	T.bw		T.reverse
+42		29		0.343		0.047		0.031		0.031
+760		-255		57.591		0.312		0.343		0.281
+672		-371		72.645		0.343		0.250		0.281
+
 6. header -> 박승수
  
