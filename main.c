@@ -31,7 +31,7 @@ int main() {
 
 	time = clock();
 	for (int i = 0; i < 10000; i++)
-	void Blockswap(x.str, x.n, x.d)
+	Blockswap(x.str, x.n, x.d);
 	printf("%.3f\t\t ", (clock() - time) / CLOCKS_PER_SEC);
 
 	time = clock();
