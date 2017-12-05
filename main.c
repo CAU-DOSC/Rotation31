@@ -2,7 +2,7 @@
 
 struct data gendata() {
 	struct data x;
-	//srand((unsigned)time(NULL));
+	srand((unsigned)time(NULL));
 	x.n = rand() % 1000 + 1;
 	x.d = (rand() % (2*x.n) -x.n);
 
