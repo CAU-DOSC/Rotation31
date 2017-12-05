@@ -32,7 +32,7 @@ STRLength	ROTATEdistance 	T.trivial	J.juggle	T.bw		T.reverse
 
 실험 결과는 스트링의 길이가 커지면 커질수록 trivial의 실행 시간은 매우 커지는것에 비해 다른 juggle bw reverse는
 실행이 스트링의 길이와 상관없이 매우 짧음을 알 수 있다.
-따라서 trivial은 다른 3개의 펑션에 비해서 효율이 매우 않좋다는 것을 알 수 있다.
+따라서 trivial은 다른 3개의 펑션에 비해서 효율이 매우 좋다는 것을 알 수 있다.
 
 6. header -> 박승수
  
