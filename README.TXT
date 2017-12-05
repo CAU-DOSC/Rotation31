@@ -11,7 +11,7 @@
 
 
 4. reverse.c -> 김동욱
-	blockswap을 이용한 Rotate방식
+	reverse를  이용한 Rotate방식
 	d에 해당하는 사이즈만큼 동적할당
 	배열의 d번째의 데이터 까지 동적메모리에 input
 	나머지 str의  데이터를 이동
