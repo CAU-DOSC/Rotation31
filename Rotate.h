@@ -10,7 +10,7 @@ struct data {
 
 void trivialrotation(char *input, int d, int n);
 void leftRotate(char arr[], int d, int n);
-void Block_Swap(char arr[], int n, int d);
+void Blockswap(char arr[], int n, int d);
 void reverse(char* str, int n, int d);
 int gcd(int a, int b);
 void Swap(char arr[], int a, int b, int d);
